@@ -1,0 +1,112 @@
+title {
+
+}
+
+#main{
+    background-color: beige;
+    
+
+}
+
+#MJTITLE {
+    text-align: center;
+    
+}
+#img-div {
+display: flex-reverse;
+}
+
+aside{
+    width: 36.6%;
+    float: right;
+    border-radius:10px;
+    background-color:lightgray;
+    margin: 100px 50px 20px 0;
+   
+    
+
+}
+
+#Mjaside {
+text-align: center;
+font: 
+}
+
+#Dateaside {
+   text-align: center;
+    
+}
+
+#img-caption {
+   width:550px;
+   
+   
+    
+}
+
+#quote-aside {
+    text-align: center;
+     width: 100%;
+    font-size: 16px;
+    
+}dde
+
+#Mjwho-aside {
+    text-align: center;
+    width: 100%;
+}
+
+#tribute-info {
+    
+}
+
+#tribute-link {
+
+}
+
+#sectionarticol {
+  width: 50%; 
+  float: left;
+    margin: 100px  0 0 50px;
+    font-family: sans-serif;
+    
+}
+
+#titlearticle1 {
+    font-size:30px; 
+    font-family: cursive;
+    text-decoration: 
+    
+}
+
+#articol1 {
+    width: 100%;
+line-height: 1.5;
+}
+
+#titlearticle2 {
+    font-size: 30px;
+    font-family: cursive;
+    
+
+}
+
+#articol2 {
+    width: 100%;
+    line-height: 1.5;
+}
+
+#hrefmjlink{
+    text-decoration: none;
+    font-size: 20px;
+    color:red;
+     
+}
+#footer {
+    display: flex;
+    width: 1490px;
+    height: 50px;
+    margin: 0 0 0 20px;
+    
+}
+}
